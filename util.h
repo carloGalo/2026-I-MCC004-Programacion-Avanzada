@@ -6,8 +6,12 @@
 T1 suma(T1 x, T1 y);
 
 // 1 Alvarez Cadillo, Michell Adrian <<michell.aac.1106@gmail.com>,
+int resta(int x, int y);
+
+T1 resta(T1 x, T1 y);
 
 // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
+T1 multiplicacion(T1 x, T1 y);
 
 // 3 Castro Chaupis, Armando Cristhian <armandocristhiancastrochaupis@gmail.com>,
 T3F dividir(T3F x,T3F y);
@@ -15,7 +19,7 @@ T3F dividir(T3F x,T3F y);
 int potencia(int base, int exponente);
 
 // 5 Diaz Tapia Adderly Orlando <adderly.diaz.tapia@gmail.com>
-double raizCuadrada(double x);
+T5 raizCuadrada(T5 x);
 // 6 Díaz Vega Greta Solange <gretadiaz01@gmail.com>
 
 // 7 DÍAZ VEGA OLENKA HELENE <olenka.diaz.v@uni.pe>
@@ -23,10 +27,10 @@ double raizCuadrada(double x);
 // 8 Gallo Lugo Carlos enrique <cgallolugo@gmail.com>
 
 // 9 Lopez Flores Royer Amed <roamlofl9@gmail.com>
-double valor_absoluto(double x);
+T_ABS valor_absoluto(T_ABS x);
 
 // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,
-unsigned int factorial(unsigned int number);
+U1 factorial(U1 number);
 
 // 11 Oscar Toledo Guerrero <tgoscar@gmail.com>
 
@@ -34,15 +38,15 @@ unsigned int factorial(unsigned int number);
 double Promedio(double x0, double y0);
 
 // 13 Suarez Maciel Susana Isabel <susana.suarez.maciel@gmail.com>
-    int cuadrado(int x13);
-    
+    T1 cuadrado(T1 x13);
+
 // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
-float porcentaje(int a14, int b14);
+F14 porcentaje(T14 a14, T14 b14);
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
 int fact(int n);
 
 // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>
-float mult(float x, float y);
+T16 mult(T16 x, T16 y);
 // 20 Segura Nuñez Alex Ernesto <alex.segura.nunez@gmail.com>
 
 // 21 Selis Vasquez Luis Antonio <luisanonioselisvasquez@gmail.com>

@@ -39,7 +39,7 @@ double Promedio(double x0, double y0);
 // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
 float porcentaje(int a14, int b14);
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
-int fact(int n);
+T1 fact(T1 n);
 
 // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>
 float mult(float x, float y);

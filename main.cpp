@@ -22,11 +22,6 @@ int main() {
 
     // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
     // Multiplicar
-    int x1 = 5, y1 = 3;
-    int a1 = resta(x1, y1);
-    cout << "Michell Alvarez-Cadillo: " << a1 << endl;
-
-    // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
     cout << "Bernaola Gayoso Cesar Raul: " << multiplicacion(x0, y0) << endl;
 
     // 3 Castro Chaupis, Armando Cristhian <armandocristhiancastrochaupis@gmail.com>,
@@ -63,6 +58,7 @@ int main() {
     T_ABS a92 = valor_absoluto(x92);
     cout << "Lopez Flores Royer Amed: " << a92 << endl;
     cout<<endl;
+
     // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,
     unsigned int u0 = 10;
     cout << "Demo Miranda Zarate Jorge: " << u0 << "! = " << factorial(u0) << endl;
@@ -77,7 +73,6 @@ int main() {
     // 13 Suarez Maciel Susana Isabel <susana.suarez.maciel@gmail.com>
     int x13 = 8;
     int result = cuadrado(x13);
-
     cout << "Suarez Maciel Susana Isabel: El cuadrado de: " << x13 << " es " << result << endl;
     
     // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,

@@ -1,8 +1,16 @@
 #ifndef __TYPES_H__
 #define __TYPES_H__
 
-using T1 = int;
+#include <cstdint>
 
-using U1 =  unsigned int;
+using T1  = int32_t;
+using T5 = double;
+using T16 = double;
+
+using U1  = uint32_t;
+
+using T_ABS = double;
 
 #endif // __TYPES_H__
+
+

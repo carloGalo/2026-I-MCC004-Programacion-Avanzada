@@ -1,5 +1,7 @@
 #include <iostream>
 #include "util.h"
+
+#include <math.h> //
 using namespace std;
 
 // Ernesto Cuadros
@@ -44,7 +46,9 @@ int main() {
     // 13 Suarez Maciel Susana Isabel <susana.suarez.maciel@gmail.com>
 
     // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
-
+    int a14 = 1, b14 = 2;
+    float c14 = porcentaje(a14, b14);
+    cout << "porcentaje: " << a0 << endl;
     // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
 
     // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>

@@ -30,7 +30,7 @@ int suma(int x, int y);
 // 13 Suarez Maciel Susana Isabel <susana.suarez.maciel@gmail.com>
 
 // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
-
+float porcentaje(int a14, int b14);
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
 
 // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>

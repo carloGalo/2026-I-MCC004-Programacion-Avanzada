@@ -43,7 +43,7 @@ double Promedio(double x0, double y0);
 // 14 Tellez Heredia Jhon <phyjhon@gmail.com>,
 F14 porcentaje(T14 a14, T14 b14);
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
-int fact(int n);
+T1 fact(T1 n);
 
 // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>
 T16 mult(T16 x, T16 y);

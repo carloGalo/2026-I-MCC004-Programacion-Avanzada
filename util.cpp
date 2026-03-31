@@ -91,9 +91,9 @@ F14 porcentaje(T14 a14, T14 b14) {
     return ((a14 - b14)/b14)*100;
 }
 // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
-int fact(int n) {
-    int resultado = 1;
-    for (int i = 1; i <= n; i++){
+T1 fact(T1 n) {
+    T1 resultado = 1;
+    for (T1 i = 1; i <= n; i++){
         resultado = resultado * i;
     }
     return resultado;

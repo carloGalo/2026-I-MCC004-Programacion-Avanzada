@@ -86,8 +86,8 @@ int main() {
     cout << "porcentaje: " << c14 << endl;
     // 15 Vilca Aguilar Luis Angel <luisangelvilca2@gmail.com>,
     // Factorial
-    int n = 6;
-    int res = fact(n);
+    T1 n = 6;
+    T1 res = fact(n);
     cout << "Luis Vilca: " << res << endl;
 
     // 16 Vinatea Chávez Camilo Jorge <camo2391@gmail.com>

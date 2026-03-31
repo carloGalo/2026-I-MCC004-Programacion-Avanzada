@@ -11,6 +11,9 @@ T1 suma(T1 x, T1 y) {
 // 1 Alvarez Cadillo, Michell Adrian <<michell.aac.1106@gmail.com>,
 
 // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
+T1 multiplicacion(T1 x, T1 y) {
+    return x * y;
+}
 
 // 3 Castro Chaupis, Armando Cristhian <armandocristhiancastrochaupis@gmail.com>,
 

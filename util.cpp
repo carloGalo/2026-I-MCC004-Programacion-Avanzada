@@ -12,6 +12,12 @@ int resta(int x, int y) {
     return x - y;
 }
 
+
+
+
+T1 resta(T1 x, T1 y) {
+    return x - y;
+}
 // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
 int multiplicacion(int x, int y) {
     return x * y;
@@ -32,7 +38,7 @@ int potencia(int base, int exponente) {
 }
 
 // 5 Diaz Tapia Adderly Orlando <adderly.diaz.tapia@gmail.com>
-double raizCuadrada(double x) {
+T5 raizCuadrada(T5 x) {
     if (x < 0) {
      std::cout << "Error: No se puede calcular la raíz cuadrada de un número negativo." << std::endl;
      return -1; 

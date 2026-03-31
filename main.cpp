@@ -15,7 +15,11 @@ int main() {
 
     // 1 Alvarez Cadillo, Michell Adrian <<michell.aac.1106@gmail.com>,
     // Resta
-    
+
+    T1 x1 = 5, y1 = 3;
+    T1 a111 = resta(x1, y1);
+    cout << "Michell Alvarez-Cadillo: " << a111 << endl;
+
     // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
     // Multiplicar
     int x1 = 5, y1 = 3;
@@ -39,8 +43,8 @@ int main() {
     
     // 5 Diaz Tapia Adderly Orlando <adderly.diaz.tapia@gmail.com>
     // Raiz cuadrada
-    double x5 = 16.0;
-    double a5 = raizCuadrada(x5);
+    T5 x5 = 16.0;
+    T5 a5 = raizCuadrada(x5);
     cout << "Diaz Tapia Adderly Orlando: " << a5 << endl;
     // 6 Díaz Vega Greta Solange <gretadiaz01@gmail.com>
     // Modulo
